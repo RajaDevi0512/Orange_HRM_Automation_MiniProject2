@@ -1,0 +1,1 @@
+input_String = "Hi This is Selenium Code sample"
